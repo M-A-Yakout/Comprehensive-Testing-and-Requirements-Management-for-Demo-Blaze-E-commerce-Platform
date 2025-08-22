@@ -86,5 +86,3 @@ DemoBlaze_Project/
 ✅ Strong emphasis on traceability, reporting, and quality assurance best practices
 
 ---
-
-Would you like me to also create a **short professional tagline** (1 sentence) to use as your GitHub repo’s top description? That’s the line people see before they open the README.
