@@ -1,0 +1,23 @@
+﻿Issue Type,Key,Summary,Status,Comments,Assignee,Due date,Labels,Created,Updated,Reporter
+Task,TRMFDBECP-1,Login with Valid Credentials – Functional Test,Done,1,Mohamed Mostafa,7/13/2025,"functional, auth, positive-test, login",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-2,Login with Invalid Credentials – Negative Test,Done,1,Mohamed Mostafa,7/13/2025,"functional, auth, positive-test, login",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-3,Login with Empty Fields – Boundary Test,Done,1,Mohamed Mostafa,7/13/2025,"auth, positive-test, login, validation",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-4,Signup with Valid Details – Functional Test,Done,1,Mohamed Mostafa,7/13/2025,"functional, positive-test, registration, signup",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-5,Signup with Existing Username – Negative Test,Done,1,Mohamed Mostafa,7/13/2025,"duplicate-check, positive-test, signup, validation",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-6,Signup with Empty Required Fields – Validation Test,Done,1,Mohamed Mostafa,7/13/2025,"form-check, positive-test, signup, validation",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-7,Signup Password Requirements – Boundary Value Test,Done,1,Mohamed Mostafa,7/13/2025,"security, password-policy, positive-test, signup",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-8,Add Item to Cart – Functional,Done,1,Mohamed Mostafa,7/13/2025,"functional, ecommerce, add-to-cart, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-9,View Cart Contents,Done,1,Mohamed Mostafa,7/13/2025,"cart-view, functional, ecommerce, add-to-cart, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-10,Remove Item from Cart,Done,1,Mohamed Mostafa,7/13/2025,"functional, form-check, ecommerce, remove-item, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-11,Add Same Item Multiple Times,Done,1,Mohamed Mostafa,7/13/2025,"quantity, ecommerce, remove-item, edge-case, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-12,Add Item without Login,Done,1,Mohamed Mostafa,7/13/2025,"guest-user, negative-test, access-control, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-13,Check Cart Persistence after Login,Done,1,Mohamed Mostafa,7/13/2025,"cart-view, regression, session, guest-user, persistence, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-14,Cart Total Calculation,Done,1,Mohamed Mostafa,7/13/2025,"calculation, functional, cart, price-check",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-15,Proceed to Purchase from Cart,Done,1,Mohamed Mostafa,7/13/2025,"functional, ecommerce, purchase-flow, checkout, price-check",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-16,Proceed to Checkout with Empty Cart,Done,1,Mohamed Mostafa,7/13/2025,"cart-view, bug, empty-cart, negative-test, checkout, validation",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-18,Home Link – Navigation Test,Done,1,Mohamed Mostafa,7/13/2025,"functional, navbar, ui-test, home",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-19,Contact Link – Modal Test,Done,2,Mohamed Mostafa,7/13/2025,"navbar, boundary-test, contact, modal",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-20,About Us Link – Modal Test,Done,2,Mohamed Mostafa,7/13/2025,"navbar, bug, video-error, about-us, media, ui-test, modal",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-21,Cart Link – Page Navigation,Done,1,Mohamed Mostafa,7/13/2025,"cart-view, navbar, ui-test, cart",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-22,Log in Link – Modal Test,Done,1,Mohamed Mostafa,7/13/2025,"navbar, auth, form-check, login, ui-test, modal",7/13/2025,7/13/2025,Mohamed Mostafa
+Task,TRMFDBECP-23,Sign up Link – Modal Test,Done,1,Mohamed Mostafa,7/13/2025,"navbar, auth, form-check, signup, ui-test, modal",7/13/2025,7/13/2025,Mohamed Mostafa
